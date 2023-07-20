@@ -1,3 +1,44 @@
-.textoBlanco {
+/* .textoBlanco {
     color: white;
-}
+} */
+
+.itemDetailContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .itemDetailContainer h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .itemDetailContainer h3 {
+    font-size: 18px;
+    margin-bottom: 8px;
+  }
+  
+  .itemDetailContainer p {
+    margin-bottom: 8px;
+  }
+  
+  .itemDetailContainer .textoBlanco {
+    color: white;
+    margin-bottom: 20px;
+  }
+  
+  .itemDetailContainer img {
+    width: 300px;
+    margin-bottom: 20px;
+  }
+  
+  .itemDetailContainer .linkTerminarCompra {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .itemDetailContainer .itemCountContainer {
+    margin-bottom: 20px;
+  }
