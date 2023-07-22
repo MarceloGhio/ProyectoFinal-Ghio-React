@@ -1,6 +1,6 @@
 
 import { initializeApp } from "firebase/app";
-import {getFirestore} from "firebase/firestore";
+import { getFirestore } from "firebase/firestore";
 
 //"AIzaSyCv9cwmhf4jz1yVkst58tBcMRf_lq47kRU"
 
